@@ -1,6 +1,6 @@
 # Searching and Sorting Algorithms
 
-This repository contains implementations of various searching and sorting algorithms in different programming languages. The goal of this repository is to provide a comprehensive collection of algorithms commonly used for searching and sorting tasks. Whether you are a beginner looking to learn about these algorithms or an experienced developer looking for ready-to-use implementations, this repository aims to serve as a valuable resource.
+This repository contains implementations of various searching and sorting algorithms in c programming languages. The goal of this repository is to provide a comprehensive collection of algorithms commonly used for searching and sorting tasks. Whether you are a beginner looking to learn about these algorithms or an experienced developer looking for ready-to-use implementations, this repository aims to serve as a valuable resource.
 
 ## Algorithms Included
 
