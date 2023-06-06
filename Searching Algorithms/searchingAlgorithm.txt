@@ -1,0 +1,16 @@
+Here's a table listing common searching algorithms along with their average-case and worst-case time complexities:
+|---------------------------------------------------------------------------------------|
+| Algorithm                  | Average Case Time Complexity| Worst Case Time Complexity |
+|----------------------------|-----------------------------|----------------------------|
+| Linear Search              | O(n)                        | O(n)                       |
+| Binary Search (sorted)     | O(log n)                    | O(log n)                   |
+| Jump Search (sorted)       | O(sqrt(n))                  | O(sqrt(n))                 |
+| Interpolation Search       | O(log log n)                | O(n)                       |
+| Exponential Search (sorted)| O(log i) (avg: O(log n))    | O(log n)                   |
+| Hashing                    | O(1)                        | O(n)                       |
+| Ternary Search (sorted)    | O(log3 n)                   | O(log3 n)                  |
+|---------------------------------------------------------------------------------------|
+
+Please note that the time complexities mentioned in the table are average-case and worst-case time complexities. 
+The actual performance of these algorithms can vary depending on the specific implementation, data distribution, 
+and other factors.
