@@ -1,0 +1,23 @@
+Here's a tabular format listing various sorting algorithms along with their average and worst-case time complexity:
+
+|-------------------------------------------------------------------------|
+| Sorting Algorithm | Average Time Complexity| Worst-Case Time Complexity |
+|-------------------|------------------------|----------------------------|
+| Bubble Sort       | O(n^2)                 | O(n^2)                     |
+| Selection Sort    | O(n^2)                 | O(n^2)                     |
+| Insertion Sort    | O(n^2)                 | O(n^2)                     |
+| Merge Sort        | O(n log n)             | O(n log n)                 |
+| Quick Sort        | O(n log n)             | O(n^2)                     |
+| Heap Sort         | O(n log n)             | O(n log n)                 |
+| Radix Sort        | O(nk)                  | O(nk)                      |
+| Counting Sort     | O(n+k)                 | O(n+k)                     |
+| Bucket Sort       | O(n^2)                 | O(n^2)                     |
+|-------------------------------------------------------------------------|
+
+Note: 
+- "n" represents the number of elements in the input array.
+- "k" represents the range of values in the input array.
+
+Please keep in mind that these time complexities represent the typical cases for the algorithms. 
+In some scenarios, certain algorithms may exhibit better or worse performance depending on the data 
+distribution and other factors.
